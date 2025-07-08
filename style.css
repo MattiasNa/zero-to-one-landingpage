@@ -13,3 +13,23 @@ p {
   color: #34495e;
   font-size: 18px;
 }
+img {
+  width: 400px;
+  height: auto;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
